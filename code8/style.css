@@ -1,0 +1,16 @@
+.box {
+    border-color: red;
+    border-width: 8px;
+    border-style: solid;
+    text-align: center;
+    height: 70vh;
+    width: 50vw;
+    padding: 200px;
+}
+
+.heading{
+    display: block;
+    border-color: red;
+    border-width: 8px;
+    border-style: solid;
+}
