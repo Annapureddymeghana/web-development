@@ -1,0 +1,13 @@
+.countdown-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.countdown-display {
+  font-size: 36px;
+}
+
+.countdown-display span {
+  font-size: 20px;
+}
+
